@@ -10,8 +10,8 @@ The project applies fundamental statistical concepts and data analysis technique
 - R (base R, tidyverse)
 
 ## Files
-- `analysis_python.ipynb` – Statistical analysis and visualizations in Python  
-- `analysis_r.R` – Equivalent analysis implemented in R  
+- `FinalAnalysis.ipynb` – Statistical analysis and visualizations in Python  
+
 
 ## Notes
 This project was completed as part of a Coursera course and is shared here for learning and demonstration purposes.
